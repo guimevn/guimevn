@@ -16,7 +16,7 @@
 
 * **Name**: Guilherme Valente
 * **Living in**: Criciúma - SC, Brazil
-* **Currently working**: Agrosys.
-* **Currently learning**: Mobile Application Development and Cybersecurity.
+* **Currently working**: TOTVS.
+* **Currently learning**: Angular.
 
 🥶❄️
