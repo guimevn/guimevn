@@ -17,6 +17,6 @@
 * **Name**: Guilherme Valente
 * **Living in**: Criciúma - SC, Brazil
 * **Currently working**: TOTVS.
-* **Currently learning**: Angular.
+* **Currently learning**: Vue.
 
 🥶❄️
